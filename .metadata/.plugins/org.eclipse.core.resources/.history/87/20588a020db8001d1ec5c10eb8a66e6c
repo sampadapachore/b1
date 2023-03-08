@@ -1,0 +1,9 @@
+package collection;
+
+public class collectiona {
+	public static void main(String[] args) {
+	s.add("we are in pune");
+		System.out.println(s);
+	}
+
+}

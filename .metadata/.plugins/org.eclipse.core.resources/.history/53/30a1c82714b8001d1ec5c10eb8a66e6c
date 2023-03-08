@@ -1,0 +1,23 @@
+package collection;
+
+import java.util.HashSet;
+
+public class hashtablea {
+	public static void main(String[] args) {
+		HashSet s=new HashSet();
+		s.add(10);
+		s.add(20);
+		s.add(34);
+		s.add(25);
+		s.add(null);
+		s.add("sampada");
+		s.add(null);
+System.out.println(s);
+		
+		
+		
+		
+		
+	}
+
+}
